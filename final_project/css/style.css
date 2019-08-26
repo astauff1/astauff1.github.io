@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  color: white;
+  background-color: black;
+  display: block;
+  padding: 90px
+
+}
+h2 {
+  margin-top: 90px
+}
+#firstList{
+  background-color: lime;
+}
+.highlights{
+  color: red;
+  text-decoration: underline;
